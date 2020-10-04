@@ -1,0 +1,93 @@
+body
+{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+p
+{
+  font-family: "Ubuntu";
+  font-weight: lighter;
+}
+.navbar-brand
+{
+  font-family: "Ubuntu";
+  font-weight: bold;
+}
+#brand-name
+{
+    font-size: 2.5rem;
+}
+
+#Navi-bar
+{
+  padding: 0 0 4.5rem 0;
+}
+
+.Download-btn
+{
+  margin: 5% 3% 3% 3%;
+}
+.nav-item
+{
+  padding-left: 18px;
+  padding-right: 18px;
+}
+
+.nav-link
+{
+  font-size: 1.25rem;
+  font-family: "Ubuntu";
+}
+#cont1
+{
+  padding: 3% 15%;
+}
+#title
+{
+  background-color: #ff4c68;
+}
+.Tile-img
+{
+  padding: 1rem;
+  width: 60%;
+  transform: rotate(25deg);
+}
+.love-img
+{
+  width: 80px;
+  height: 80px;
+  background-color: #fff;
+}
+.heart_con
+{
+  height: 30px;
+  width: 30px;
+}
+.heart-img
+{
+  margin-top: 10rem;
+  margin-bottom: 1.75rem;
+  color: #ff4c68;
+}
+.heart-img:hover
+{
+  color: pink;
+}
+.icons
+{
+  text-align: center;
+  padding: 5%;
+}
